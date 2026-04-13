@@ -12,6 +12,8 @@ The most recent notes reformulate latent-channel rate–distortion optimization 
 - `information_notes_2.pdf`: discrete rate–distortion with Hamming distortion, closed-form solution, threshold truncation, and Markov kernel construction.
 - `information_notes_3.pdf`: arbitrary distortion, degradation kernels, small-step generators, and failure of Markov compatibility in general. 
 - `information_notes_4.pdf`: semigroup-based reformulation, KL-projection interpretation, exact inversion criterion, and convex optimization characterization.
+- `information_notes_5.pdf*`: Continuation for notes 4, optimal properties, quadratic approximation around the threshold. (Only serve as intuitions)
+- `candidate_flow.pdf`: proposed a good candidate flow, a possible substitute process for Diffusion model.
 
 ## Status
 
